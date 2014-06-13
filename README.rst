@@ -2,7 +2,7 @@
 Ansible playbook template
 =========================
 
-Use it with Cookiecutter:
+Use it with Cookiecutter_:
 
 .. code-block:: bash
 
@@ -13,3 +13,6 @@ License
 -------
 
 MIT
+
+
+.. _Cookiecutter: https://github.com/audreyr/cookiecutter
