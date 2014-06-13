@@ -1,0 +1,8 @@
+{
+    "full_name": "Walter Moreira",
+    "email": "walter@waltermoreira.net",
+    "github_username": "waltermoreira",
+    "project_name": "Ansible provisioning",
+    "repo_name": "ansible_provisioning",
+    "project_short_description": "Best practices structure for an Ansible playbook",
+}

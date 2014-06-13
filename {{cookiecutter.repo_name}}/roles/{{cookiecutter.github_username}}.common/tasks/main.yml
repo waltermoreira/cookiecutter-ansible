@@ -1,0 +1,9 @@
+---
+
+- name: Update apt
+  apt: update_cache=yes
+  sudo: yes
+
+- name: Install vim
+  apt: pkg=vim state=present
+  sudo: yes
